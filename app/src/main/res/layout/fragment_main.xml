@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/cartTv"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="购物车"
+        android:textSize="@dimen/font_16"/>
+
+    <TextView
+        android:id="@+id/orderTv"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="订单"
+        android:textSize="@dimen/font_16"/>
+
+    <TextView
+        android:id="@+id/addressTv"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="地址"
+        android:textSize="@dimen/font_16"/>
+
+    <TextView
+        android:id="@+id/addToCartTv"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="添加到购物车"
+        android:textSize="@dimen/font_16"/>
+
+    <TextView
+        android:id="@+id/chooseCityTv"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="选择城市"
+        android:textSize="@dimen/font_16"/>
+
+</LinearLayout>

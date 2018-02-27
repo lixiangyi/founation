@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\tymallbe\\lixiangyi\\youhuiba\\Youhuiba\\commonlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator\\scale_with_alpha.xml",
+        "source": "G:\\tymallbe\\lixiangyi\\youhuiba\\Youhuiba\\commonlibrary\\build\\intermediates\\bundles\\debug\\res\\animator\\scale_with_alpha.xml"
+    },
+    {
+        "merged": "G:\\otg\\commonlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator\\scale_with_alpha.xml",
+        "source": "G:\\otg\\commonlibrary\\build\\intermediates\\bundles\\debug\\res\\animator\\scale_with_alpha.xml"
+    },
+    {
+        "merged": "G:\\gongchengguanli\\Android\\gcgl\\commonlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator\\scale_with_alpha.xml",
+        "source": "G:\\gongchengguanli\\Android\\gcgl\\commonlibrary\\build\\intermediates\\bundles\\debug\\res\\animator\\scale_with_alpha.xml"
+    },
+    {
+        "merged": "G:\\migao2\\Android\\commonlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator\\scale_with_alpha.xml",
+        "source": "G:\\migao2\\Android\\commonlibrary\\build\\intermediates\\bundles\\debug\\res\\animator\\scale_with_alpha.xml"
+    }
+]

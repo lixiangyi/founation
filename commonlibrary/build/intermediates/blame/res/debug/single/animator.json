@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\migao2\\Android\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\animator\\scale_with_alpha.xml",
+        "source": "G:\\migao2\\Android\\commonlibrary\\src\\main\\res\\animator\\scale_with_alpha.xml"
+    },
+    {
+        "merged": "G:\\gongchengguanli\\Android\\gcgl\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\animator\\scale_with_alpha.xml",
+        "source": "G:\\gongchengguanli\\Android\\gcgl\\commonlibrary\\src\\main\\res\\animator\\scale_with_alpha.xml"
+    },
+    {
+        "merged": "G:\\otg\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\animator\\scale_with_alpha.xml",
+        "source": "G:\\otg\\commonlibrary\\src\\main\\res\\animator\\scale_with_alpha.xml"
+    },
+    {
+        "merged": "G:\\tymallbe\\lixiangyi\\youhuiba\\Youhuiba\\commonlibrary\\build\\intermediates\\res\\merged\\debug\\animator\\scale_with_alpha.xml",
+        "source": "G:\\tymallbe\\lixiangyi\\youhuiba\\Youhuiba\\commonlibrary\\src\\main\\res\\animator\\scale_with_alpha.xml"
+    }
+]
